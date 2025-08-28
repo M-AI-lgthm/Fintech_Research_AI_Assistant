@@ -1,7 +1,7 @@
 # Fintech_Research_AI_Assistant
 Multi-agent AI research system built with CrewAI orchestrating specialized agents for automated fintech research and reporting.
 This application orchestrates three distinct agents to gather, analyze, and report on fintech topics with comprehensive insights.
-<img width="570" height="745" alt="image" src="https://github.com/user-attachments/assets/65b80491-4aab-4587-9934-9ee44d65e9ab" />
+   <img width="570" height="745" alt="image" src="https://github.com/user-attachments/assets/65b80491-4aab-4587-9934-9ee44d65e9ab" />
 
 
 ## 🌟 Features
